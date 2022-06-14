@@ -1,7 +1,7 @@
 <div align="center">
-<a href="https://ibb.co/wQ4GK21"><img src="https://i.ibb.co/HPqwr9Q/whatsapp-botto-void-init.png" alt="whatsapp-botto-void-init" border="0"></a>
+<a href="https://ibb.co/wQ4GK21"><img src="https://i.imgur.com/6t3hP8h.jpeg" alt="whatsapp-botto-void-init" border="0"></a>
 
-# **The Coding Family: WhatsApp Bot 🤹 **
+# **welcome to minnal ser bot 👻**
 
 [![CodeFactor](https://www.codefactor.io/repository/github/prajjwaldatir/kaoi/badge)](https://www.codefactor.io/repository/github/prajjwaldatir/kaoi)
 
@@ -53,7 +53,7 @@ Use any one of the above to deploy
     `yarn run prettier-format` before opening PRs
 
 ## 🤝 Contributors
--   the-great-M-D
+-   the-minnalser-M-D
 
 
 ### 🟢 WhatsApp Support Group
